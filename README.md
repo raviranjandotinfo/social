@@ -2,6 +2,7 @@
 A simple Laravel project to Send Friend Request, Accept Request and see Mutual friend list.
 
 List Of Tasks.
+
 1. User Registration.
 2. User Login using email and password.
 3. Search registarted user.
